@@ -1,0 +1,14 @@
+$start
+	start a new poker game (Must have Dealer role to use)
+$next
+	progress the game to the next betting round (Must have Dealer role to use and the current betting round must already be finished)
+$check
+	do the poker action 'check' (Must be the turn player to use)
+$bet <amount>
+	do the poker action 'bet' by betting the given amount, also use this command when raise (raise size must be at least 2 times bigger than the maximum bet size this turn) (Must be the turn Player to use)
+$call
+	do the poker action 'call' (Must be the turn player to use)
+$fold
+	do the poker action 'fold' (Must be the turn player to use)
+#allin
+	do the poker action 'all in' (Must be the turn player to use)

@@ -1,0 +1,6 @@
+$money
+	view the current amount of money you have
+$give (@user) (amount)
+	add the amount of money to the user's balance (Must be Banker to use)
+$pay (@user) amount
+	pay your money to the user by the amount 

@@ -1,0 +1,8 @@
+$host <poker>
+	host a room (There can only be 1 room per text channel) (Must be Dealer to use)
+$remove
+	remove the current room from the text channel (Must be Dealer to use)
+$join
+	join the room in this text channel
+$leave
+	leave from the room in this text channel
